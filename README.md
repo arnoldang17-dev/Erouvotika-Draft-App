@@ -16,7 +16,7 @@ npm create astro@latest -- --template basics
 
 Inside of your Astro project, you'll see the following folders and files:
 
-```text
+```text1111
 /
 ├── public/
 │   └── favicon.svg
